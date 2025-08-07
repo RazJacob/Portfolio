@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #fff;
+  color: #000;
+}
+button {
+  cursor: pointer;
+}
